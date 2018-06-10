@@ -1,0 +1,25 @@
+{
+    "caffe flavor": "NVIDIA",
+    "caffe version": "0.15.14",
+    "creation time": "2018-05-31 04:02:42.449062",
+    "dataset_id": "20180530-211943-b562",
+    "deploy file": "deploy.prototxt",
+    "digits version": "6.1.0",
+    "framework": "caffe",
+    "id": "20180531-040242-e81e",
+    "image dimensions": [
+        1024,
+        1344,
+        3
+    ],
+    "job id": "20180531-040242-e81e",
+    "mean file": "mean.binaryproto",
+    "mean subtraction": "image",
+    "model file": "original.prototxt",
+    "name": "Lego_Detect_1",
+    "snapshot file": "snapshot_iter_420.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Done",
+    "train_val file": "train_val.prototxt",
+    "username": "froohoo"
+}
